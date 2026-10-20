@@ -1,5 +1,4 @@
-Este projeto consiste no desenvolvimento de um mini site de roupas, criado com o objetivo de praticar e aprimorar meus conhecimentos em desenvolvimento web, com foco na estruturação de páginas HTML e na estilização com CSS.
-Durante o desenvolvimento, trabalhei na organização dos arquivos do projeto, na montagem das páginas e na navegação entre diferentes arquivos HTML.
+Este projeto consiste no desenvolvimento de um mini site de roupas, criado com o objetivo de praticar e aprimorar meus conhecimentos em desenvolvimento web, com foco na estruturação de páginas HTML e na estilização com CSS.Durante o desenvolvimento, trabalhei na organização dos arquivos do projeto, na montagem das páginas e na navegação entre diferentes arquivos HTML.
 
 🎯 Objetivos
 Praticar a estruturação de páginas com HTML.
